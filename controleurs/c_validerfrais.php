@@ -85,6 +85,11 @@ case'refuser':
     include 'vues/v_fin.php';
     break;
 case'valider':
+    // formulaire php ( POST ) 
+    // 
+    // qd on clique sur le btn submit les donnes elles vont s'envoyer 
+    // Apperler une requete qui va modifier 
+    // etat = CR modifier en VA
 //si valider est clique il faut que ca enregistre la date ou c'est clique et que la fichefrais soit mis a letat VA
 break;    
 }
